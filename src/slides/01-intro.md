@@ -30,8 +30,6 @@ Use arrows ←  → and enter keys to navigate.
 
 ## Thank you!
 
-Navigate back to
-- [First page](/1)
-- [Home](https://www.nimu.work)
+[Home](https://www.nimu.work)
 
 
