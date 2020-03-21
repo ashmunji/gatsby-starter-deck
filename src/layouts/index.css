@@ -33,6 +33,9 @@ html {
 
   color: var(--text);
   background-color: var(--bg);
+
+  pointer-events: none;
+  cursor: default;
 }
 
 #slide {
@@ -174,5 +177,5 @@ img {
   -webkit-filter: drop-shadow(3px 3px 3px #222);
   filter: drop-shadow(3px 3px px #222);
   pointer-events: none;
-  cursor: none;
+  cursor: default;
 }
