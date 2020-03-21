@@ -2,8 +2,6 @@
 
 ![Ashwini Munji Portfolio](./images/start.jpg)
 
-        Selected Works. 
-
 Use arrows ←  → and enter keys to navigate. 
 
 ---
