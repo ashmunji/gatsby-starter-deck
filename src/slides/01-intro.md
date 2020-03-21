@@ -1,25 +1,29 @@
-# Gatsby Deck
+![Ashwini Munji Portfolio](./images/start.jpg)
 
-Create presentations using Gatsby & React.
-
----
-
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+Use arrows ←  → and enter keys to navigate. 
 
 ---
 
-# 🤫
+# ![Ashwini Munji Board1](./images/Artboard1.jpg)
 
 ---
 
-## Slides are written in Markdown!
+# ![Ashwini Munji Board2](./images/Artboard2.jpg)
 
-Here's the source of the first slide:
+---
 
-    # Gatsby Deck
+# ![Ashwini Munji Board3](./images/Artboard3.jpg)
 
-    Create presentations using Gatsby & React.
+---
+
+# ![Ashwini Munji Board4](./images/Artboard4.jpg)
+
+---
+
+# ![Ashwini Munji Board5](./images/Artboard5.jpg)
+
+---
+
+# ![Ashwini Munji Board6](./images/Artboard6.jpg)
+
+

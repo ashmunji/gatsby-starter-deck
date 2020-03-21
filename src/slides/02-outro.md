@@ -1,4 +1,4 @@
-Images can be embedded from the local filesystem!
+<!-- Images can be embedded from the local filesystem!
 
 ![xkcd on standards](./standards.png)
 
@@ -12,3 +12,4 @@ Images can be embedded from the local filesystem!
 or create your own with:
 
     gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
+ -->
