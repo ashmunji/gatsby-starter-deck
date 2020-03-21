@@ -9,9 +9,7 @@ import './index.css';
 
 const Header = ({ name, title, date }) => (
   <header>
-    <Link to="https://www.nimu.work">
-      <span>{name}</span> — {title}
-    </Link>
+    <a href="www.nimu.work">Ashwini Munji</a>
     <time>{date}</time>
     <Link to="/1">
       <span>Go to the beginning</span>
