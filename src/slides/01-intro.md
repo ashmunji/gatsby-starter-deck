@@ -8,7 +8,6 @@ Use arrows ←  → and enter keys to navigate.
 
 # ![Ashwini Munji Board1](./images/Artboard1.jpg)
 
-Study of landforms. 
 
 ---
 
