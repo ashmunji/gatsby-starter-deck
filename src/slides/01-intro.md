@@ -1,6 +1,6 @@
 
 
-![Ashwini Munji Portfolio](./images/start.jpg)
+![Ashwini Munji Portfolio](./images/Cover.jpg)
 
 Use arrows ←  → and enter keys to navigate. 
 
