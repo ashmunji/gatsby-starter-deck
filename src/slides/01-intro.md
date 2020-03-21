@@ -30,6 +30,8 @@ Use arrows ←  → and enter keys to navigate.
 
 ## Thank you!
 
+[Reach out to me](mailto:munjiashwini@gmail.com) for a copy of my complete Portfolio. 
+
 [Home](https://www.nimu.work)
 
 
